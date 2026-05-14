@@ -1,17 +1,24 @@
-# inventory_app
+# Cafe - Loss Tracker system
 
-A new Flutter project.
+A flutter project, Inventory management system specifically designed for Product Loss in a cafe.
 
-## Getting Started
+### Project Directory Structure
+lib/ : Contains the core Flutter logic and the entry point of the application (main.dart).
 
-This project is a starting point for a Flutter application.
+android/ : Stores the Android-specific configurations, including SDK requirements and permissions.
 
-A few resources to get you started if this is your first Flutter project:
+assets/ : (Optional) Stores static images and icons used within the app UI.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+pubspec.yaml : The project’s manifest file, listing all Flutter and Dart dependencies.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Getting Started
+
+gitclone: [https://github.com/ThanielCruz/school-project-inventory-system](https://github.com/ThanielCruz/Final-School-Project-inventory-system)
+
+Installing Dependencies: 
+
+flutter pub get
+
+Run the application:
+
+flutter run
